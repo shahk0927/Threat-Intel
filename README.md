@@ -99,9 +99,3 @@ To build an AI-integrated automated threat intelligence system that identifies, 
 
 This project is open-source and available under the MIT License.
 
----
-
-## Contact
-
-For questions or collaborations, please contact [Your Name] at [Your Email].
-
